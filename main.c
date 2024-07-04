@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #include "struct.h"
+#include <math.h>
 
 int main(){
     Pong();
